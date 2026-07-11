@@ -99,6 +99,4 @@ Aunque teóricamente 2 neuronas ocultas son suficientes para resolver XOR, bajo 
 Con un exceso de parámetros en relación con el conjunto de datos reducido (solo 4 muestras), el modelo se volvió vulnerable a caer en mínimos locales durante la optimización con Adam, fallando en el punto `(1,0)`.
 * Ver frontera: `images/decision_boundary_config_4.png`
 
----
 
-*Para profundizar en los cuestionarios conceptuales y justificaciones matemáticas de estos comportamientos, consulte el archivo [informe_laboratorio.md](informe_laboratorio.md).*
